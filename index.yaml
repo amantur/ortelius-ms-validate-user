@@ -2,40 +2,12 @@ apiVersion: v1
 entries:
   ms-validate-user:
   - apiVersion: v1
-    created: "2021-12-28T18:08:49.171822465Z"
+    created: "2022-01-21T03:33:54.604345127Z"
     description: Dependency Packages
-    digest: 8182afdda8457d0053c8bf526c67e4334dea2efdfb29f524fd74f980e9aaf9b2
+    digest: 1d39920c464c81aa1c175962605fd2d66ed88b750bebf9d922776c48d0f6bd8f
     name: ms-validate-user
     type: application
     urls:
-    - https://github.com/ortelius/ortelius-ms-validate-user/releases/download/ms-validate-user-10.0.0-build.29/ms-validate-user-10.0.0-build.29.tgz
-    version: 10.0.0-build.29
-  - apiVersion: v1
-    created: "2021-12-01T23:41:30.935126051Z"
-    description: Dependency Packages
-    digest: 2d79aeb5abacd6e731c2a18efcaecbfaddf1e0b1ca24bbb959b827a073f6ddbf
-    name: ms-validate-user
-    type: application
-    urls:
-    - https://github.com/ortelius/ortelius-ms-validate-user/releases/download/ms-validate-user-10.0.0-build.28/ms-validate-user-10.0.0-build.28.tgz
-    version: 10.0.0-build.28
-  - apiVersion: v1
-    created: "2021-12-01T22:50:58.138069068Z"
-    description: Dependency Packages
-    digest: cd70144706376471ee3769356fcebebcdc8800a7bce54300e71a647984dfc908
-    name: ms-validate-user
-    type: application
-    urls:
-    - https://github.com/ortelius/ortelius-ms-validate-user/releases/download/ms-validate-user-10.0.0-build.27/ms-validate-user-10.0.0-build.27.tgz
-    version: 10.0.0-build.27
-  - apiVersion: v2
-    appVersion: "1.0"
-    created: "2021-11-11T04:58:25.195988896Z"
-    description: Dependency Packages
-    digest: fdbd20f31bf9b83dd3b6f4422058e66391e207339c2faa604ec12034fdc91a0a
-    name: ms-validate-user
-    type: application
-    urls:
-    - https://github.com/ortelius/ortelius-ms-validate-user/releases/download/ms-validate-user-0.1.0/ms-validate-user-0.1.0.tgz
-    version: 0.1.0
-generated: "2021-12-28T18:08:49.171858265Z"
+    - https://github.com/amantur/ortelius-ms-validate-user/releases/download/ms-validate-user-10.0.0-build.30/ms-validate-user-10.0.0-build.30.tgz
+    version: 10.0.0-build.30
+generated: "2022-01-21T03:33:54.604353427Z"
